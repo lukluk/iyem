@@ -1,0 +1,25 @@
+{
+  "name": "iyem",
+  "version": "1.0.1",
+  "description": "Easy way to manage Multi Thread Js ",
+  "main": "iyem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lukluk/iyem.git"
+  },
+  "keywords": [
+    "multithread",
+    "thread",
+    "multi",
+    "thread"
+  ],
+  "author": "luklukaha@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukluk/iyem/issues"
+  },
+  "homepage": "https://github.com/lukluk/iyem#readme"
+}
