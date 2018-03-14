@@ -1,6 +1,6 @@
 {
   "name": "iyem",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Easy way to manage Multi Thread Js ",
   "main": "iyem.js",
   "scripts": {
